@@ -4,7 +4,7 @@ services:
         image: mongo:3.2.6
         ports:
             - "27017:27017"
-    mongo_seed:
+    mongo_import:
         image: mongo:3.2.6
         links:
             - mongodb
