@@ -1,4 +1,4 @@
-# Comfig de base pour lancer MongoDb dans le cours de NoSQL de LPGL dans l'université de Lorraine
+# Configuration de base pour lancer MongoDb dans le cours de NoSQL de LPGL dans l'université de Lorraine
 
 ## Instructions
 - Installez `Docker` : [lien](https://www.docker.com/products/docker-desktop)
@@ -8,8 +8,8 @@
 - Ouvrez un auter terminal et allez dans le le dossier
 - Entrez `docker-compose run mongo_import`
 
-## Config
-Dans cette config :
+## Configuration
+Dans cette configuration :
  - le port : 27017
  - la version de Mongodb : 3.2.6
 
