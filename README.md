@@ -8,6 +8,11 @@
 - Ouvrez un auter terminal et allez dans le le dossier
 - Entrez `docker-compose run mongo_import`
 
+### Attention
+Si vous êtes sur Windows vous devez :
+ - avoir un mot de passe
+ - avoir autorisé la lecture et l'ecriture dans le disque (settings > share drive)
+
 ## Configuration
 Dans cette configuration :
  - le port : 27017
